@@ -1,0 +1,21 @@
+===================================================================================
+                   STUDENT GRADE ANALYZER - CLASS SUMMARY REPORT                   
+Report Generated: 2025-12-01 18:35:08
+===================================================================================
+
+--- INDIVIDUAL STUDENT REPORT ---
+Student Name         | Average  | Min   | Max   | Letter   | Grades
+-----------------------------------------------------------------------------------
+Musa                 | Avg: 73.50 | Min: 67 | Max: 85 | Letter: C | Grades: [70, 69, 70, 80, 85, 67]
+Nuray                | Avg: 75.50 | Min: 59 | Max: 93 | Letter: C | Grades: [64, 93, 82, 75, 59, 80]
+Nilek                | Avg: 70.83 | Min: 49 | Max: 90 | Letter: C | Grades: [49, 67, 87, 65, 67, 90]
+Roma                 | Avg: 78.00 | Min: 56 | Max: 98 | Letter: C | Grades: [67, 78, 98, 89, 80, 56]
+-----------------------------------------------------------------------------------
+
+
+--- CLASS STATISTICS SUMMARY ---
+Total Students Analyzed: 4
+Total Grades Counted:    24
+Class Average Grade:     74.46
+Highest Grade in Class:  98
+Lowest Grade in Class:   49
