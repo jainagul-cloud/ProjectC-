@@ -1,4 +1,5 @@
-# ProjectC# 
+# ProjectC#
+<img width="804" height="535" alt="Image" src="https://github.com/user-attachments/assets/4b0468a0-fc28-469e-9873-9804ac27d913" />
 📊 Student Grade Analyzer: Applied Math C# Project
 
 Project Overview
