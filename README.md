@@ -1,5 +1,6 @@
 # ProjectC#
 <img width="804" height="535" alt="Image" src="https://github.com/user-attachments/assets/4b0468a0-fc28-469e-9873-9804ac27d913" />
+
 📊 Student Grade Analyzer: Applied Math C# Project
 
 Project Overview
@@ -69,3 +70,4 @@ Input: Follow the on-screen prompts to enter student names, followed by their in
 View: The program will immediately display the individual reports and the class summary in the console.
 
 Check Output: The final report will be saved to a file named Class_Summary_Report.txt in the same directory as the executable.
+<img width="1158" height="899" alt="Image" src="https://github.com/user-attachments/assets/ba95fee0-99b5-47d6-abb7-b5fad892939c" />
